@@ -1,2 +1,2 @@
-# UOE_MSc__dissertation_project
+# UOE MSc Dissertation Project
 Identifying patterns and predictors of energy home use
